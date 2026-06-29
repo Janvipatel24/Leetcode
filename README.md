@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Janvipatel24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Janvipatel24/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Janvipatel24/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Janvipatel24/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Janvipatel24/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Janvipatel24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
