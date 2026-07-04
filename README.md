@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Janvipatel24/Leetcode/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/Janvipatel24/Leetcode/tree/master/0292-nim-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Janvipatel24/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Janvipatel24/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Janvipatel24/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
