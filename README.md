@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Janvipatel24/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Janvipatel24/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Janvipatel24/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/Janvipatel24/Leetcode/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
